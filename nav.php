@@ -15,5 +15,8 @@
         <li>
             <a href="https://merkulova.thkit.ee" target="_blank">Vana index.html</a>
         </li>
+        <li>
+            <a href="?leht=gitKasud.php">GIT käsud</a>
+        </li>
     </ul>
 </nav>
